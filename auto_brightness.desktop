@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=/usr/bin/auto_brightness
+Icon=dialog-scripts
+Name=auto_brightness
+Path=
+Type=Application
+X-KDE-AutostartScript=true
